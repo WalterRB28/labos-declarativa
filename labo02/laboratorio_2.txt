@@ -1,0 +1,31 @@
+1. Si la información no es completa para oferentes y demandantes, hay una falla de mercado.
+
+Sujeto: la información
+Predicado: no es completa para oferentes y demandantes, hay una falla de mercado
+
+Proposicion
+p: la información es completa para oferentes y demandantes
+q: hay una falla de mercado
+
+¬p → q
+
+2. He pasado todas mis vacaciones en Grecia y Marruecos.
+
+Sujeto implicito: yo
+Predicado: he pasado todas mis vacaciones en Grecia y Marruecos
+
+Proposicion:
+p: he pasado mis vacaciones en Grecia
+q: he pasado mis vacaciones en Marruecos
+
+p ∧ q
+
+3. La realidad supera a la ficción y él no puede creerlo.
+
+Sujetos: la realidad y el
+Predicados: supera a la ficción, no puede creerlo
+
+
+Proposicion:
+p: la realidad supera a la ficción
+q: él puede creerlo
